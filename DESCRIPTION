@@ -3,7 +3,7 @@ Title: Allows Running SAS Code from R
 Version: 0.0.0.9000
 Authors@R: person("Amin", "Adibi", email = "adibi@alumni.ubc.ca", role = c("aut", "cre"))
 Description: Executes SAS code from R in Batch mode. 
-Depends: R (>= 3.5.0)
+Depends: R (>= 3.4.0)
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
